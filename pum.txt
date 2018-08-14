@@ -1,0 +1,16 @@
+<!doctype html> --etiqueta cuya funcion es facilitar informacion al servidor web que aloja la pagina.
+la infomacion facilitada por esta eqtiqueta se refiere al tipo de documento
+
+<html>--etiqueta que encierra todo el documento HTML
+
+<head>--es una etiqueta que define la cabecera del documento y contiene la informacion del mismo como
+metadatos, scripts, estilos, ubicaciones de documentos,titulos de pagina entre otros
+
+</head>
+
+<body>--etiqueta en la cual se coloca lo que el usuario va a observar y usar
+
+</body>
+
+
+</html>
