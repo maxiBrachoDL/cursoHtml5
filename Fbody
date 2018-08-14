@@ -1,0 +1,72 @@
+<!doctype html>
+
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<meta name="author" content"Maxi">
+
+<meta name="description" content="Esta es la descripcion del sitio">
+
+<meta name="keywords" contect="tutoriales, html, desarrollo web">
+
+<title> Titulo superior </title>
+<linkk rel="icon" herf="c:\imagen-carpeta-imagen.png">
+<img src="img/img.jpg">
+
+</head>
+
+<body>
+
+<header>PRINCIPAL</header>
+
+<nav><NAVEGACION/nav>
+
+<section>SECCION</section>
+
+<aside>COLUMNA</aside>
+
+<article>ARTICULO</article>
+
+<h1>TITULO</h1>
+
+<p><b>PARRAFO con negrita</b></p>
+
+<hr>--salto de linea
+
+<a herf="#">Vinculo</a>
+
+<img src="img/img.jpg">
+
+
+<figture>
+<img src="img/img.jpg">
+</figure>
+<figcaption>Pie de pagina para la imagen</figcaption>
+
+
+<ol> lista numerica <ul> lista sin enumerar
+<li>barco</li>
+<li>carro</li>
+<ol>
+
+<table border="1">
+
+
+<tr>
+<th>mes</th>
+<th>ahorro</th>
+</tr>
+<tr>
+<th>enero</th>
+<th>50</th>
+</tr>
+</table> 
+
+<h1>Resultados de examen</h1>
+<p>Carlos:<meter value="94" min="0" max="100" hig="90"></meter></p>
+
+</body>
+
+</html>
